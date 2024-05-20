@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.study</groupId>
     <artifactId>discovery_service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>discovery_service</name>
     <description>discovery_service</description>
 
